@@ -36,7 +36,7 @@ JOKES = [
     {
         "question": "What did the ocean say to the beach?",
         "answer": "Nothing, it just waved."
-    }
+    },
     {
         "question": "Where do boats go when they're sick?",
         "answer": "To the boat doc."
