@@ -4,6 +4,9 @@ from fastapi.middleware.cors import CORSMiddleware
 import random # standard python random library
 
 app = FastAPI() # this creates ours FastAPI application
+
+# These are security settings. Don't worry about this too much. This means that multiple
+# Web domains can access this API. 
 origins = [
     "*",
     "http://localhost",
@@ -20,6 +23,7 @@ app.add_middleware(
     allow_headers=["*"],
 )
 
+# Our Jokes "Database".
 JOKES = [
     {
        "question": "Where do fruits go on vacation?",
@@ -31,7 +35,7 @@ JOKES = [
     },
     {
         "question": "What did the ocean say to the beach?",
-        "answer:": "Nothing, it just waved."
+        "answer": "Nothing, it just waved."
     }
 ]
 
