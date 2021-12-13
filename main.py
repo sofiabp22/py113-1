@@ -40,6 +40,62 @@ JOKES = [
     {
         "question": "Where do boats go when they're sick?",
         "answer": "To the boat doc."
+    },
+    {
+        "question": "Did you hear the rumor about butter?",
+        "answer": "Well, I'm not going to spread it!"
+    },
+    {
+        "question": "What kind of car does an egg drive?",
+        "answer": "A yolkswagen."
+    },
+    {
+        "question": "Why didn't the skeleton climb the mountain?",
+        "answer": "It didn't have the guts."
+    },
+    {
+        "question": "How many tickles does it take to make an octopus laugh?",
+        "answer": "Ten tickles."
+    },
+    {
+        "question": "Why did the math book look so sad?",
+        "answer": "Because of all of its problems!"
+    },
+    {
+        "question": "What do you call cheese that isn't yours?",
+        "answer": "Nacho cheese."
+    },
+    {
+        "question": "Where do math teachers go on vacation?",
+        "answer": "Times Square."
+    },
+    {
+        "question": "What does garlic do when it gets hot?",
+        "answer": "It takes its cloves off."
+    },
+    {
+        "question": "What's a robot's favorite snack?",
+        "answer": "Computer chips."
+    },
+    {
+        "question": "Why is Peter Pan always flying?",
+        "answer": "He neverlands."
+    },
+    {
+        "question": "Why are piggy banks so wise?",
+        "answer": "They're filled with common cents."
+    },
+    {
+        "question": "Can February March?",
+        "answer": "No, but April May!"
+    },
+    {
+        "question": "What's an astronaut's favorite part of a computer? ",
+        "answer": "The space bar."
+    },
+    {
+        "question": "Why are elevator jokes so classic and good?",
+        "answer": "They work on many levels."
     }
 ]
 
